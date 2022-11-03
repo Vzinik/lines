@@ -1,0 +1,17 @@
+C:\Alik\tcptest\tcptst\tcptst\bin\Release\net6.0-windows\tcptst.exe
+C:\Alik\tcptest\tcptst\tcptst\bin\Release\net6.0-windows\tcptst.deps.json
+C:\Alik\tcptest\tcptst\tcptst\bin\Release\net6.0-windows\tcptst.runtimeconfig.json
+C:\Alik\tcptest\tcptst\tcptst\bin\Release\net6.0-windows\tcptst.dll
+C:\Alik\tcptest\tcptst\tcptst\bin\Release\net6.0-windows\tcptst.pdb
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\tcptst.csproj.AssemblyReference.cache
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\tcptst.Form1.resources
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\tcptst.csproj.GenerateResource.cache
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\tcptst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\tcptst.AssemblyInfoInputs.cache
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\tcptst.AssemblyInfo.cs
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\tcptst.csproj.CoreCompileInputs.cache
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\tcptst.dll
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\refint\tcptst.dll
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\tcptst.pdb
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\tcptst.genruntimeconfig.cache
+C:\Alik\tcptest\tcptst\tcptst\obj\Release\net6.0-windows\ref\tcptst.dll
